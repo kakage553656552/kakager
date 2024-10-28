@@ -1,11 +1,13 @@
 {
-  "name": "kaka-custom-plugin",
-  "version": "1.0.1",
-  "description": "kaka's custom plugin",
-  "main": "src/index.js",
+  "name": "kakager",
+  "version": "1.0.0",
+  "bin": "./index.js",
+  "description": "",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "kaka.zhang",
+  "keywords": [],
+  "author": "",
   "license": "ISC"
 }
